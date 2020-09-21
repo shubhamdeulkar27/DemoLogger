@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\DemoLogger\bin\Debug\netcoreapp2.1\DemoLogger.deps.json
+C:\Users\hp\source\repos\DemoLogger\bin\Debug\netcoreapp2.1\DemoLogger.runtimeconfig.json
+C:\Users\hp\source\repos\DemoLogger\bin\Debug\netcoreapp2.1\DemoLogger.runtimeconfig.dev.json
+C:\Users\hp\source\repos\DemoLogger\bin\Debug\netcoreapp2.1\DemoLogger.dll
+C:\Users\hp\source\repos\DemoLogger\obj\Debug\netcoreapp2.1\DemoLogger.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\DemoLogger\obj\Debug\netcoreapp2.1\DemoLogger.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\DemoLogger\obj\Debug\netcoreapp2.1\DemoLogger.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\DemoLogger\obj\Debug\netcoreapp2.1\DemoLogger.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\DemoLogger\obj\Debug\netcoreapp2.1\DemoLogger.AssemblyInfo.cs
+C:\Users\hp\source\repos\DemoLogger\obj\Debug\netcoreapp2.1\DemoLogger.RazorTargetAssemblyInfo.cache
