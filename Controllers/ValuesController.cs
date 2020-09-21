@@ -10,10 +10,20 @@ namespace DemoLogger.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+        private ILog logger;
+        public ValuesController(ILog logger)
+        {
+            this.logger = logger;
+        }
+
         // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
+            logger.Information("Information Is Logged");
+            logger.Warning("Warning Is Logged");
+            logger.Debug("Debug Is Logged");
+            logger.Error("Error Is Logged");
             return new string[] { "value1", "value2" };
         }
 

@@ -8,3 +8,7 @@ C:\Users\hp\source\repos\DemoLogger\obj\Debug\netcoreapp2.1\DemoLogger.RazorAsse
 C:\Users\hp\source\repos\DemoLogger\obj\Debug\netcoreapp2.1\DemoLogger.AssemblyInfoInputs.cache
 C:\Users\hp\source\repos\DemoLogger\obj\Debug\netcoreapp2.1\DemoLogger.AssemblyInfo.cs
 C:\Users\hp\source\repos\DemoLogger\obj\Debug\netcoreapp2.1\DemoLogger.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\DemoLogger\bin\Debug\netcoreapp2.1\DemoLogger.pdb
+C:\Users\hp\source\repos\DemoLogger\obj\Debug\netcoreapp2.1\DemoLogger.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DemoLogger\obj\Debug\netcoreapp2.1\DemoLogger.dll
+C:\Users\hp\source\repos\DemoLogger\obj\Debug\netcoreapp2.1\DemoLogger.pdb
