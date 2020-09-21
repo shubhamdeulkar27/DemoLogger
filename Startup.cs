@@ -19,6 +19,7 @@ namespace DemoLogger
     {
         public Startup(IConfiguration configuration)
         {
+            // Setting Up Configuration For NLog.
             LogManager.LoadConfiguration(System.String.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
             Configuration = configuration;
         }

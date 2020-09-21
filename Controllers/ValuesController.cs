@@ -20,6 +20,7 @@ namespace DemoLogger.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
+            //Calling NLoger Function For Logging.
             logger.Information("Information Is Logged");
             logger.Warning("Warning Is Logged");
             logger.Debug("Debug Is Logged");
